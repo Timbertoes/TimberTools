@@ -1,0 +1,23 @@
+{
+  "name": "com.timbertoes.com.timbertoes.timbertools",
+  "version": "1.0.0",
+  "displayName": "Timber Tools",
+  "description": "Just a collection of useful tools I've written for myself.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/Timbertoes/TimberTools",
+  "changelogUrl": "https://github.com/Timbertoes/TimberTools",
+  "licensesUrl": "https://github.com/Timbertoes/TimberTools/blob/main/LICENSE",
+  "keywords": [
+    "timber",
+    "tools",
+    "timbertools",
+    "timber tools",
+    "timbertoes"
+  ],
+  "author": {
+    "name": "Timbertoes",
+    "email": "theandypope@gmail.com",
+    "url": "https://github.com/Timbertoes/TimberTools"
+  }
+}
